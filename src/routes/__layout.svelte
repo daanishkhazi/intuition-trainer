@@ -6,7 +6,7 @@
     <div class="nav-container">
         <a href="/" class="nav-logo" title="Back to Homepage">Visual Intuition Trainer</a>
         <div class="nav-links">
-            <a href="/about" class="link">How to Play</a>
+            <a href="/about" class="link">Motivation & Scoring</a>
         </div>
     </div>
  </nav>
