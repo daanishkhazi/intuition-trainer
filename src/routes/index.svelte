@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-    <title>Visual Intuition Trainer v2</title>
+    <title>Visual Intuition Trainer - Train your visual numeracy</title>
 </svelte:head>
 
 <Quiz />
